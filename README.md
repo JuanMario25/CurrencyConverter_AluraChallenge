@@ -1,4 +1,4 @@
-<h>Currency Converter</h>
+<h>Currency Converter Alura Challenge</h>
 
 <p>This project is a challenge proposed by Alura Latam, developed in the Java programming language.
 Its main goal is to convert a base currency to a target currency using exchange rate data obtained 
@@ -7,6 +7,10 @@ This app is executed from the terminal, where it displays a menu to interact wit
 It is possible to choose the base currency, the target currency, and the amount of money you wish to 
 convert. Finally, the app generates a JSON file with the details of the operation. You can repeat this
 process until you choose the exit option to close the app.</p>
+
+<h1>Project Made By: </h1>
+<p>Juan Mario Ayala Ayala</p>
+<p>Date: November 25, 2024</p>
 
 <p>java version jdk 17--> documentation:
 https://docs.oracle.com/en/java/javase/17/docs/api/</p>
